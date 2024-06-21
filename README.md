@@ -8,6 +8,7 @@ Draws bounding rectangles around detected vehicles.
 Counts the vehicles that cross a specified line.
 Displays the count of vehicles on the video frame.
 Prerequisites
-Python 3.x
+
+python
 OpenCV
 NumPy
