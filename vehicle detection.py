@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Initialize video capture from the given video file
-cap = cv2.VideoCapture('car.mp4')
+cap = cv2.VideoCapture('Video.mp4')
 
 # Minimum width and height of the detected rectangle to be considered as a valid detection
 min_width_react = 80  # Minimum width of the rectangle
